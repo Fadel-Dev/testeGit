@@ -1,0 +1,14 @@
+ul {
+    display: flex;
+   
+}
+li{
+    list-style: none;
+     padding-right: 5%;
+     margin: 1%;
+     align-items: center;
+}
+
+li:hover {
+    background-color: bisque;
+}
